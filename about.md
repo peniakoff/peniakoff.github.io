@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm Tom Miller, born in the Poland. It's just my beggining with a Github and other programming experiences.
+I'm Tomasz (eng. <span style="font-style: italic;">Tom</span>) Miller, born in the Poland. It's just my beggining with a Github and other programming experiences.
