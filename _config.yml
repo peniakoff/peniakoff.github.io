@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Tomasz Miller - blog osobisty
+title: Tom Miller's personal blog
 email: tomasz.miller@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog osobisty Tomasza Millera.
+  You are reading now Tom Miller's personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.tomaszmiller.pl" # the base hostname & protocol for your site
 github_username:  peniakoff
